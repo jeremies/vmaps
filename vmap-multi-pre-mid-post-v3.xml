@@ -1,6 +1,13 @@
 <vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
-    <vmap:AdBreak timeOffset="start" breakType="linear" breakId="midroll">
-        <vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
+    <vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
+        <vmap:AdSource id="preroll-ad-1" allowMultipleAds="true" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://cdn.theoplayer.com/demos/ads/vast/dfp-preroll-no-skip.xml ]]>
+</vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+    <vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll2">
+        <vmap:AdSource id="preroll-ad-2" allowMultipleAds="true" followRedirects="true">
             <vmap:AdTagURI templateType="vast3">
 <![CDATA[ https://cdn.theoplayer.com/demos/ads/vast/dfp-preroll-no-skip.xml ]]>
 </vmap:AdTagURI>
@@ -13,7 +20,7 @@
 </vmap:AdTagURI>
         </vmap:AdSource>
     </vmap:AdBreak>
-    <vmap:AdBreak timeOffset="end" breakType="linear" breakId="midroll">
+    <vmap:AdBreak timeOffset="end" breakType="linear" breakId="postroll">
         <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
             <vmap:AdTagURI templateType="vast3">
 <![CDATA[ https://cdn.theoplayer.com/demos/ads/vast/dfp-postroll-no-skip.xml ]]>
