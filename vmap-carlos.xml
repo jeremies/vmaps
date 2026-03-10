@@ -6,7 +6,7 @@
 </vmap:AdTagURI>
         </vmap:AdSource>
     </vmap:AdBreak>
-    <vmap:AdBreak timeOffset="00:00:15" breakType="linear" breakId="midroll">
+    <vmap:AdBreak timeOffset="00:01:15" breakType="linear" breakId="midroll">
         <vmap:AdSource id="midroll-ad-1" allowMultipleAds="false" followRedirects="true">
             <vmap:AdTagURI templateType="vast3">
 <![CDATA[ https://cdn.theoplayer.com/demos/ads/vast/dfp-midroll-no-skip.xml ]]>
