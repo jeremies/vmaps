@@ -8,7 +8,7 @@
             <AdTitle>Preroll 1</AdTitle>
             <Impression />
             <Creatives>
-                <Creative>
+                <Creative id="creative-1">
                     <Linear>
                         <Duration>00:00:02</Duration>
                         <VideoClicks>
@@ -36,7 +36,7 @@
             <AdTitle>Preroll 2</AdTitle>
             <Impression />
             <Creatives>
-                <Creative>
+                <Creative id="creative-2">
                     <Linear>
                         <Duration>00:00:02</Duration>
                         <VideoClicks>
@@ -63,7 +63,7 @@
             <AdTitle>Preroll 3</AdTitle>
             <Impression />
             <Creatives>
-                <Creative>
+                <Creative id="creative-3">
                     <Linear>
                         <Duration>00:00:02</Duration>
                         <VideoClicks>
