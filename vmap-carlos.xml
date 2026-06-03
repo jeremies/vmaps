@@ -3,7 +3,7 @@
     <vmap:AdSource allowMultipleAds='true' followRedirects='true' id='1'>
       <vmap:VASTAdData>
         <VAST version='3.0' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='vast.xsd'>
-          <Ad id='94206457.140632562363392AVANQUA' sequence='1'>
+          <Ad id='94206457.140632562363392' sequence='1'>
             <InLine>
               <AdSystem>FreeWheel</AdSystem>
               <AdTitle>MP4-A3A-AVANQUA-06-26</AdTitle>
@@ -23,7 +23,7 @@
                 <![CDATA[https://user-sync.fwmrm.net/ad/u?mode=echo&cr=https%3A%2F%2Fpx.ads.linkedin.com%2Fsetuid%3Fpartner%3Dfreewheel%26exuid%3D68361065865120687781050514804173689899%26gdpr%3D1%26gdpr_consent%3DCQjA2wAQjA2wAAHABBENCbFsAP_gAEPgAAiQKTNR_G__bWlr-Tb3abtkeYxP9_hrboQxBgbJk24FzLvW7JwHx2ExNAzKtqIKmRIAu3TBIQNlHBDURUCgKIgFryDMaE2UoTNKJ6BkiFMRA2NYCFxnmwtjWQCY4up_9lUxmB-t7dr82dziy4BHn3a5bmS1UJCNIYctBfvsZBOT89IEd-x8u4v4-EbpEm8eS1F_pGtp4jd6YlM_dBGxt-Tyfb7Pn__rl_BSYAEw0OiCMsiAQIFAQggQAKCsIAKBAEAACQNEBACYMCHIGAC6wmQAgBQADBACAAEGAAIAABIAEIgAgAIBACBAIFAAGABAEBAAQMAAYALEQCAAEA0CFMCCAQLABIjKoNMCEABIICWyoQSAIEFcIUiRwCCBERBQAAAgAFAAAgPhYCEkoJGBBAFxBdAAgAAABBAiwIpCzAEFAZotAWBJwGRpAGT5gmSU4AAA.IKTNR_G__bXlv-Tb36btkeYxf9_hrboQxBgbJs24FzLvW7JwH32EzNEzKtqYKmRIAu3TBIQNtHBjURUChKIgVrzDsaE2UoTtKJ-BkiHMRY2NYCFxnmwtjWQCZ4up_91V5mR-t7dr-2dziy5Bnv3a9buS1UJiNKYctFfvsZBOT8_IU9_x8-4v4-MbpEm8eS1N_tWtt43d64tP_dpOxt-Tyfb7____73_A.f_wACHwAAAAA]]>
               </Impression>
               <Creatives>
-                <Creative AdID='94206457AVANQUA' id='338651791AVANQUA'>
+                <Creative AdID='94206457' id='338651791'>
                   <Linear>
                     <Duration>00:00:19</Duration>
                     <TrackingEvents>
@@ -74,7 +74,7 @@
                     </VideoClicks>
                     <MediaFiles>
                       <MediaFile bitrate='1524' delivery='progressive' height='480' id='1317060451' type='video/mp4' width='854'>
-                        <![CDATA[https://publi.atresmediapublicidad.com/mrm/ZEN-CAC-GEN-CA3-020-CAS/video_SD.mp4]]>
+                        <![CDATA[https://publi.atresmediapublicidad.com/mrm/ZEN-CAC-GEN-CA3-020-CAS/video_FSD.mp4]]>
                       </MediaFile>
                     </MediaFiles>
                   </Linear>
@@ -91,7 +91,7 @@
     <vmap:AdSource allowMultipleAds='true' followRedirects='true' id='2'>
       <vmap:VASTAdData>
         <VAST version='3.0' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='vast.xsd'>
-          <Ad id='94206458.140632562364416AVANQUA' sequence='1'>
+          <Ad id='94206458.140632562364416' sequence='1'>
             <InLine>
               <AdSystem>FreeWheel</AdSystem>
               <AdTitle>MP4-A3A-AVANQUA-06-26</AdTitle>
@@ -102,7 +102,7 @@
                 <![CDATA[https://7db96.v.fwmrm.net/ad/l/1?s=l2f13&n=514966%3B514966&t=1780481405862657907&f=201588736&r=514966&adid=94206458&reid=1317060451&arid=1&auid=&cn=defaultImpression&et=i&_cc=94206458,1317060451,,,1780481405,1&tpos=60&async=0&iw=&uxnw=&uxss=&uxct=&metr=1031&init=1&vcid2=68361065865120687781050514804173689899&asid=351657947&ssid=8736909&cr=https%3A//ad.doubleclick.net/ddm/trackimp/N2462.1743589ATRESMEDIA.COM/B35550477.443854854%3Bdc_trk_aid%3D636879968%3Bdc_trk_cid%3D96975734%3Bord%3D1577355162%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bltd%3D%3Bdc_tdv%3D1%3F]]>
               </Impression>
               <Creatives>
-                <Creative AdID='94206458AVANQUA' id='338651791AVANQUA'>
+                <Creative AdID='94206458' id='338651791'>
                   <Linear>
                     <Duration>00:00:19</Duration>
                     <TrackingEvents>
@@ -153,7 +153,7 @@
                     </VideoClicks>
                     <MediaFiles>
                       <MediaFile bitrate='1524' delivery='progressive' height='480' id='1317060451' type='video/mp4' width='854'>
-                        <![CDATA[https://publi.atresmediapublicidad.com/mrm/ZEN-CAC-GEN-CA3-020-CAS/video_SD.mp4]]>
+                        <![CDATA[https://publi.atresmediapublicidad.com/mrm/ZEN-CAC-GEN-CA3-020-CAS/video_FSD.mp4]]>
                       </MediaFile>
                     </MediaFiles>
                   </Linear>
@@ -170,7 +170,7 @@
     <vmap:AdSource allowMultipleAds='true' followRedirects='true' id='3'>
       <vmap:VASTAdData>
         <VAST version='3.0' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='vast.xsd'>
-          <Ad id='94206458.140632562361344AVANQUA' sequence='1'>
+          <Ad id='94206458.140632562361344' sequence='1'>
             <InLine>
               <AdSystem>FreeWheel</AdSystem>
               <AdTitle>MP4-A3A-AVANQUA-06-26</AdTitle>
@@ -181,7 +181,7 @@
                 <![CDATA[https://7db96.v.fwmrm.net/ad/l/1?s=l2f13&n=514966%3B514966&t=1780481405862657907&f=201588736&r=514966&adid=94206458&reid=1317060451&arid=0&auid=&cn=defaultImpression&et=i&_cc=94206458,1317060451,,,1780481405,1&tpos=120&async=0&iw=&uxnw=&uxss=&uxct=&metr=1031&init=1&vcid2=68361065865120687781050514804173689899&asid=351657947&ssid=8736909&cr=https%3A//ad.doubleclick.net/ddm/trackimp/N2462.1743589ATRESMEDIA.COM/B35550477.443854854%3Bdc_trk_aid%3D636879968%3Bdc_trk_cid%3D96975734%3Bord%3D1274990191%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bltd%3D%3Bdc_tdv%3D1%3F]]>
               </Impression>
               <Creatives>
-                <Creative AdID='94206458AVANQUA' id='338651791AVANQUA'>
+                <Creative AdID='94206458' id='338651791'>
                   <Linear>
                     <Duration>00:00:19</Duration>
                     <TrackingEvents>
@@ -232,7 +232,7 @@
                     </VideoClicks>
                     <MediaFiles>
                       <MediaFile bitrate='1524' delivery='progressive' height='480' id='1317060451' type='video/mp4' width='854'>
-                        <![CDATA[https://publi.atresmediapublicidad.com/mrm/ZEN-CAC-GEN-CA3-020-CAS/video_SD.mp4]]>
+                        <![CDATA[https://publi.atresmediapublicidad.com/mrm/ZEN-CAC-GEN-CA3-020-CAS/video_FSD.mp4]]>
                       </MediaFile>
                     </MediaFiles>
                   </Linear>
