@@ -1,0 +1,44 @@
+<vmap:VMAP version='1.0' xmlns:vmap='http://www.iab.net/vmap-1.0'>
+    <vmap:AdBreak breakId='pre' breakType='linear' timeOffset='start'>
+        <vmap:AdSource id="preroll-ad-1" allowMultipleAds="true" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/jeremies/vmaps/refs/heads/main/vast-2s.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+    <vmap:AdBreak breakId='pre2' breakType='linear' timeOffset='start'>
+        <vmap:AdSource id="preroll-ad-2" allowMultipleAds="true" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/jeremies/vmaps/refs/heads/main/vast-2s.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+    <vmap:AdBreak breakId='mid6060' breakType='linear' timeOffset='00:01:00'>
+        <vmap:AdSource id="midroll-ad-1" allowMultipleAds="true" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/jeremies/vmaps/refs/heads/main/vast-2s.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+    <vmap:AdBreak breakId='mid60260' breakType='linear' timeOffset='00:01:00'>
+        <vmap:AdSource id="midroll-ad-2" allowMultipleAds="true" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/jeremies/vmaps/refs/heads/main/vast-2s.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+        <vmap:AdBreak breakId='post' breakType='linear' timeOffset='end'>
+        <vmap:AdSource id="postroll-ad-1" allowMultipleAds="true" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/jeremies/vmaps/refs/heads/main/vast-2s.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+    <vmap:AdBreak breakId='post2' breakType='linear' timeOffset='end'>
+        <vmap:AdSource id="postroll-ad-2" allowMultipleAds="true" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/jeremies/vmaps/refs/heads/main/vast-2s.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+</vmap:VMAP>
