@@ -2,7 +2,7 @@
     <vmap:AdBreak breakId='pre' breakType='linear' timeOffset='start'>
         <vmap:AdSource id="preroll-ad-1" allowMultipleAds="true" followRedirects="true">
             <vmap:AdTagURI templateType="vast3">
-                <![CDATA[ https://raw.githubusercontent.com/jeremies/vmaps/refs/heads/main/vast-2s.xml ]]>
+                <![CDATA[ https://raw.githubusercontent.com/jeremies/vmaps/refs/heads/main/click-error-vast.xml ]]>
             </vmap:AdTagURI>
         </vmap:AdSource>
     </vmap:AdBreak>
